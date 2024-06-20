@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "500843951722",
+    "project_id": "zalusomart",
+    "storage_bucket": "zalusomart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500843951722:android:14fe2227979bee06a03c13",
+        "android_client_info": {
+          "package_name": "com.example.zalusomart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaUSx40PmJu0R0hYocfWozD19p0IwXT0A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
